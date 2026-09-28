@@ -119,7 +119,7 @@ Four upright squares — Red · Blue · Purple · Grey — on a clean white fiel
 **Mohammed Al-Abyah** — Security Engineer · Riyadh  - **Mohammed Maarouf** — SOC Analyst 
 
 - Portfolio: [q5.qa](https://q5.qa/)
-- CV: [q5.qa/cycv.pdf](https://q5.qa/cycv.pdf)  --[Mohammed_Maarouf_CV 2.pdf](https://Mohammed_Maarouf_CV.2.pdf)
+- CV: [q5.qa/cycv.pdf](https://q5.qa/cycv.pdf)  
 - GitHub: [@6lj](https://github.com/6lj) 
 - Email: [dev@q5.qa](mailto:dev@q5.qa)
 
