@@ -116,7 +116,7 @@ Four upright squares — Red · Blue · Purple · Grey — on a clean white fiel
 
 ## Developer
 
-**Mohammed Al-Abyah** — Security Engineer · Riyadh
+**Mohammed Al-Abyah** — Security Engineer · Riyadh  - **Mohammed Maarouf**  SOC Analyst 
 
 - Portfolio: [q5.qa](https://q5.qa/)
 - CV: [q5.qa/cycv.pdf](https://q5.qa/cycv.pdf)
